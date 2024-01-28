@@ -16,8 +16,10 @@ Simply means that the filter context is flowing from mapping table to my all dat
 <p><h3>SUMMARY </h3></p>
 <img src=https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/5b2e2192-059b-4d81-bda1-57790f56b015>
 <p>
+ 
   <b>TOP LEFT SECTION:</b> 
   </p>
+  
   In top left section, there are two numbers that will show the current month wait list versus the same month previous year wait list. For this, we can use a card visual, but for the numbers, we need the total wait list column. We will use DAX to make a more dynamic card and create a new measure called " Latest Month Wait List." This will display the current month's wait list.
 
 Similarly, create a new measure for the same month previous year named "Previous Year Latest Month Wait List, now displaying the number or count of waiting lists for the previous year of the same month.
@@ -51,9 +53,10 @@ Create two measures, which will be average waiting and median waiting list, in t
 <p>
    <p><h3>DRILLDOWN </h3></p>
 
-   <img src=
-  
-  Determining the top-performing state by analysing various metrics. By evaluating metrics such as total sales, customer acquisition, and profitability by state, businesses can identify the region contributing the most to overall success. This analysis guides strategic decisions, allowing businesses to focus resources, marketing efforts, and customer engagement strategies on the top-performing state for sustained growth and market dominance. Identifying and targeting top customers based on higher spending for special discounts and coupons is a strategic approach to cultivating preferred customer relationships.
+   <img src=(https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/758aeb6a-7ce9-4001-890e-88592da18669>
+
+Creating a pop-up window of some sort that will show a split of specialties for that particular month, specifically using the speciality group, will use the speciality column now and add a new pop-up window that will show a different kind of view without wasting any of the real estate in this dashboard. Add one more page named DrillDown, add a chart using the specialty mapping, and use a card to see the total number of waitlists for that particular month in this kind of view. When users hover on a line chart and it's going to show an entire drilldown page with that particular view and move the cursor, the views are also getting filtered accordingly.  
+
 </p>
 
 <p>Jan 2024 <p/>
