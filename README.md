@@ -53,7 +53,7 @@ Create two measures, which will be average waiting and median waiting list, in t
 <p>
    <p><h3>DRILLDOWN </h3></p>
 
-   <img src=https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/72fbaabf-e706-46a4-80fe-ebae270d9241>
+   <img src=https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/f045fde2-e2e8-49c0-93f9-29bf81ac98b9>
 </p>
 
    
@@ -62,4 +62,4 @@ Creating a pop-up window of some sort that will show a split of specialties for 
 
 </p>
 
-<p>Jan 2024 <p/>
+<p>28 Jan 2024 <p/>
