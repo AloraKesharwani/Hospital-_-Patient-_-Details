@@ -34,12 +34,12 @@ Before we create that toggle button, we need to create a blank table that will h
 Create two measures, which will be average waiting and median waiting list, in the average waiting list, which contains the average of the total column, and the median waiting list, which contains the median of the total weight list column. Create one more measure, which will enable us to interact with this button and switch between these two metrics. Let’s name this as average/median wait list.
 </p>
 <p>
-  <b>3. PROFIT BY SUB- CATEGORY AND REGIONS:</b> 
+  <b>BOTTOM SECTION: </b> 
   
-</p>The profit by subcategories and region provides a variety of filters. The users can also filter the visualisations in the dashboard by region and sub-categories. The dashboard is dynamic, and the filter will be applied to all the visualisations available in the matrix chart.These matrix charts can help the business optimise its profit by region and subcategories.The profit matrix chart is a valuable visualisation that can provide an overall view of the subcategories of each region.
+</p>The line chart will show the total wait list in case type. In this chart, we use day case and inpatient data. Create a same-line chart by using outpatient data. Monthly trend analysis on the basis of inpatient, daycase, and outpatient will showcase the total wait list for a particular category.
 </p>
 <p>
-  <b>4. PROFIT BY CATEGORY:</b> 
+<img src=
   
 The profit by category chart gives managers the ability to have a wide range of information in just one chart, by drilling up they can have information about the overall profit of each product category and by drilling down they can find the most valuable products and the slow-mover ones. This can help production to put their resources into producing profitable goods and perhaps stop the production of goods with little to no profit
 </p>
