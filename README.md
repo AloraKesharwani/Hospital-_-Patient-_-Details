@@ -53,7 +53,10 @@ Create two measures, which will be average waiting and median waiting list, in t
 <p>
    <p><h3>DRILLDOWN </h3></p>
 
-   <img src=(https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/758aeb6a-7ce9-4001-890e-88592da18669>
+   <img src=https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/72fbaabf-e706-46a4-80fe-ebae270d9241>
+</p>
+
+   
 
 Creating a pop-up window of some sort that will show a split of specialties for that particular month, specifically using the speciality group, will use the speciality column now and add a new pop-up window that will show a different kind of view without wasting any of the real estate in this dashboard. Add one more page named DrillDown, add a chart using the specialty mapping, and use a card to see the total number of waitlists for that particular month in this kind of view. When users hover on a line chart and it's going to show an entire drilldown page with that particular view and move the cursor, the views are also getting filtered accordingly.  
 
