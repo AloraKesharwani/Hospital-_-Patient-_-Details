@@ -23,6 +23,7 @@ Simply means that the filter context is flowing from mapping table to my all dat
 Similarly, create a new measure for the same month previous year named "Previous Year Latest Month Wait List, now displaying the number or count of waiting lists for the previous year of the same month.
 
 In Top, also create a few filters for the overall dashboard functioning, which will be the month, casetype, specialty, and archive date column.
+Indication: Create explicit titles that will show whether the average is selected or the median is selected, and create a new measure named Dynamic Title (Key Indicator Wait List).
 </p>
 <p>
   <b>MIDDLE SECTION:</b> 
@@ -39,12 +40,18 @@ Create two measures, which will be average waiting and median waiting list, in t
 </p>The line chart will show the total wait list in case type. In this chart, we use day case and inpatient data. Create a same-line chart by using outpatient data. Monthly trend analysis on the basis of inpatient, daycase, and outpatient will showcase the total wait list for a particular category.
 </p>
 <p>
-<img src=
+  <p><h3>DETAILED </h3></p>
   
-The profit by category chart gives managers the ability to have a wide range of information in just one chart, by drilling up they can have information about the overall profit of each product category and by drilling down they can find the most valuable products and the slow-mover ones. This can help production to put their resources into producing profitable goods and perhaps stop the production of goods with little to no profit
+<img src=https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/72fbaabf-e706-46a4-80fe-ebae270d9241>
+</p>
+
+  In this dashboard, add a slicer named archive data, casetype, speciality, age profile, or timeband. Use a grid or table instead of this simple table, add some value to the data, and use a matrix view. This will give us an option to summarise the data and may create some other type of transformation within this view, which will be beneficial for the end user for granular-level analysis.
+
 </p>
 <p>
-  <b>5. PROFIT BY STATES:</b> 
+   <p><h3>DRILLDOWN </h3></p>
+
+   <img src=
   
   Determining the top-performing state by analysing various metrics. By evaluating metrics such as total sales, customer acquisition, and profitability by state, businesses can identify the region contributing the most to overall success. This analysis guides strategic decisions, allowing businesses to focus resources, marketing efforts, and customer engagement strategies on the top-performing state for sustained growth and market dominance. Identifying and targeting top customers based on higher spending for special discounts and coupons is a strategic approach to cultivating preferred customer relationships.
 </p>
