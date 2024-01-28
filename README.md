@@ -3,7 +3,7 @@
   Superstore managers can see the total profit, total sales, and the total discount of each region, they can also see details of each state by simply drilling down to the state view in slicer chart.
 The data set consists of sales detail, profit detail, quantity detail, etc. It contains over 9995 rows and 21 columns of data. This dashboard can help the business with decision-making.
 
-  <p><h3>OVERVIEW</h3></p>
+  <p><h3>DATA MODEL</h3></p>
 <img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/467d0351-712f-4fa2-9188-d4f3f88a189d>
 
 <p><h3>PROFIT DASHBORD </h3></p>
