@@ -6,18 +6,20 @@
   <p><h3>DATA MODEL</h3></p>
 <img src=https://github.com/AloraKesharwani/Hospital-_-Patient-_-Details/assets/155231669/47722b03-b0c7-45ec-8141-8aed77dbcdcc>
 
-
+</p>
 There are three tables Inpatient, outpatient and all data which are created. Since I have already appended are inpatient and outpatient data in all data. Avoiding confusion both the table was hiding. Created additional mapping table which maps all the specialties to a certain specialty group in a csv file. Modeled data by creating a relationship between mapping specialty and all data.
 Simply means that the filter context is flowing from mapping table to my all data.
+
 
 
 <p><h3>SUMMARY </h3></p>
 <img src=https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/5b2e2192-059b-4d81-bda1-57790f56b015>
 <p>
-  <b>1. PROFIT BY YEAR AND QUATER:</b> 
-  
- The profit chart shows the overall view of profit in each quarter and year.Sum up the profits for each quarter to get the total profit for each year.In 2018, profits seem to be increasing from Q1 to Q4, with Q4 being the most profitable quarter.In 2023, there is a slight dip in Q1, but profits increase again in Q2, Q3, and Q4.
-Analyse each quarter individually to understand the factors contributing to fluctuations in profits.Identify whether profits are consistently growing, declining, or remaining stable.
+  <b>TOP LEFT SECTION:</b> 
+  </p>
+  In top left section, there are two numbers that will show the current month wait list versus the same month previous year wait list. For this, we can use a card visual, but for the numbers, we need the total wait list column. We will use DAX to make a more dynamic card and create a new measure called " Latest Month Wait List." This will display the current month's wait list.
+
+Similarly, create a new measure for the same month previous year named "Previous Year Latest Month Wait List, now displaying the number or count of waiting lists for the previous year of the same month.
 </p>
 <p>
   <b>2. PROFIT BY PRODUCTS:</b> 
