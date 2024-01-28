@@ -1,7 +1,7 @@
 # PATIENT_HEALTH_ANALYSIS
-<p>In this dashboard, we focus on the sample data from a superstore. Superstore is a small retail business and provides a concise yet comprehensive overview of profit data.
-  Superstore managers can see the total profit, total sales, and the total discount of each region, they can also see details of each state by simply drilling down to the state view in slicer chart.
-The data set consists of sales detail, profit detail, quantity detail, etc. It contains over 9995 rows and 21 columns of data. This dashboard can help the business with decision-making.
+<p>In this dashboard, we analyse the historical monthly trend of waiting lists in inpatient or outpatient categories, where Inpatient means a patient who stays in a hospital while under treatment and Outpatient means a patient who receives medical treatment without being admitted to a hospital. A comprehensive overview of the patient's medical history, including past illnesses, surgeries, allergies, chronic conditions, etc., is presented on the dashboard. Detailed specialty level and age profile analysis. Use the folder connector and use multiple Excel files to collate them together and then import them.
+
+  Combine both inpatient and outpatient data sets together to get a single set of data that will be used for visualisation purposes. Append tables, append both sets of data together, and rename it ALL DATA.
 
   <p><h3>DATA MODEL</h3></p>
 <img src=https://github.com/AloraKesharwani/Hospital-_-Patient-_-Details/assets/155231669/47722b03-b0c7-45ec-8141-8aed77dbcdcc>
