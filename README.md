@@ -22,7 +22,7 @@ Simply means that the filter context is flowing from mapping table to my all dat
 Similarly, create a new measure for the same month previous year named "Previous Year Latest Month Wait List, now displaying the number or count of waiting lists for the previous year of the same month.
 </p>
 <p>
-  <b>2. PROFIT BY PRODUCTS:</b> 
+  <b>MIDDLE SECTION:</b> 
   
   Compare profits for each product to identify which products are the most profitable and contribute significantly to overall store profits.Identify products that are often purchased together. This information can be used to create cross-selling strategies.Some products are in the growth phase, maturity, or decline phase, and adjust marketing and inventory strategies accordingly.
 </p>
