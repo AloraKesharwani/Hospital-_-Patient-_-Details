@@ -6,7 +6,12 @@
   <p><h3>DATA MODEL</h3></p>
 <img src=https://github.com/AloraKesharwani/Hospital-_-Patient-_-Details/assets/155231669/47722b03-b0c7-45ec-8141-8aed77dbcdcc>
 
-<p><h3>PROFIT DASHBORD </h3></p>
+
+There are three tables Inpatient, outpatient and all data which are created. Since I have already appended are inpatient and outpatient data in all data. Avoiding confusion both the table was hiding. Created additional mapping table which maps all the specialties to a certain specialty group in a csv file. Modeled data by creating a relationship between mapping specialty and all data.
+Simply means that the filter context is flowing from mapping table to my all data.
+
+
+<p><h3>SUMMARY </h3></p>
 <img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/1496eccf-25f3-4596-9900-4c407f496bcd>
 <p>
   <b>1. PROFIT BY YEAR AND QUATER:</b> 
