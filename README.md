@@ -2,8 +2,9 @@
 <p>In this dashboard, we analyse the historical monthly trend of waiting lists in inpatient or outpatient categories, where Inpatient means a patient who stays in a hospital while under treatment and Outpatient means a patient who receives medical treatment without being admitted to a hospital. A comprehensive overview of the patient's medical history, including past illnesses, surgeries, allergies, chronic conditions, etc., is presented on the dashboard. Detailed specialty level and age profile analysis. Use the folder connector and use multiple Excel files to collate them together and then import them.
 
   Combine both inpatient and outpatient data sets together to get a single set of data that will be used for visualisation purposes. Append tables, append both sets of data together, and rename it ALL DATA.
+  
+<h3>WORKING VIDEO</h3>
 
- <p><h3>WORKING VIDEO</h3></p>
 [![WORKING VIDEO](https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/656a3053-f0ce-4939-837c-f1fc3b458d2e)](https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/3c854e93-0567-480d-b866-93da246f7ae5)
 
   <p><h3>DATA MODEL</h3></p>
