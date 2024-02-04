@@ -3,7 +3,10 @@
 
   Combine both inpatient and outpatient data sets together to get a single set of data that will be used for visualisation purposes. Append tables, append both sets of data together, and rename it ALL DATA.
 
-<img src= https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/3c854e93-0567-480d-b866-93da246f7ae5>
+<video width="320" height="240" controls>
+  <source src= https://github.com/AloraKesharwani/Patient_Health_Analysis/assets/155231669/3c854e93-0567-480d-b866-93da246f7ae5" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
   <p><h3>DATA MODEL</h3></p>
 <img src=https://github.com/AloraKesharwani/Hospital-_-Patient-_-Details/assets/155231669/47722b03-b0c7-45ec-8141-8aed77dbcdcc>
